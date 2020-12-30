@@ -1,7 +1,6 @@
 import dbConnector
 import pyodbc
 
-
 class covidDBUpdate:
 
     def __init__(self):
